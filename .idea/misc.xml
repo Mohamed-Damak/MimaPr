@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/background_layout.xml" value="0.176" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/edt_bac.xml" value="0.127" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1815" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1175" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/buttonadd.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/chatfragment.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_add_note.xml" value="0.264" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_chart.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_dashbord.xml" value="0.1" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_info.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_list.xml" value="0.2359375" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_note_list.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_note_list2.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_note_list_fragmente.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_note_list_fragmentt.xml" value="0.2" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/noteticket.xml" value="0.2" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/setting_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/menu/addnotes.xml" value="0.264" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/menu/menu_nav_bar.xml" value="0.25" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/menu/nav_menu.xml" value="0.2" />
+        <entry key="..\:/Users/damma/AndroidStudioProjects/MyApplication11/app/src/main/res/menu/notelist_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
